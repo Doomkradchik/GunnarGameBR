@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa2324b5593e2994b975d6d71671a87d, type: 3}
+  m_Name: LevelScrollingPanelFactory
+  m_EditorClassIdentifier: 
+  infos:
+  - {fileID: 11400000, guid: c1f1c3b84fa6f344fa02228fc0031830, type: 2}
+  prefab: {fileID: -9033073788364221241, guid: c6a6558fc848fec4b81c792a1bd70498, type: 3}

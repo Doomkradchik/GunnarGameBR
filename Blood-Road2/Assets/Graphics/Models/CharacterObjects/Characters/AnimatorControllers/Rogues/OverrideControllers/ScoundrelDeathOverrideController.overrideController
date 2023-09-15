@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScoundrelDeathOverrideController
+  m_Controller: {fileID: 9100000, guid: 2b5611f1e3ebe6f499675621c96ec23f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -4795130711814168396, guid: 8bf7159bd1bde9246b140ec3cc23365a, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 6866d5243fac3bb42b4d7c0f521d724d, type: 2}
+  - m_OriginalClip: {fileID: 3993475579618617866, guid: 34e200f2afe3abb4382ee696846535e3, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: dc584f0f4d42c6845ba300b8d25a04c8, type: 2}

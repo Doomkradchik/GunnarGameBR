@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f589a9ae4e47a0b263444a2826d542, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  item:
+    Ability:
+      <AbilityCommand>k__BackingField:
+        rid: -2
+      <Cost>k__BackingField: 0
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 0}
+      <Cooldown>k__BackingField: 0
+    View:
+      <ID>k__BackingField: 234
+      <State>k__BackingField:
+        rid: 1209029642549985280
+      <Animation>k__BackingField: {fileID: 2483290792771463240, guid: 295407edca97a7a4e9ee4c62a21a663d, type: 3}
+      <Speed>k__BackingField: 1.12
+      <Effect>k__BackingField: {fileID: 0}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1209029642549985280
+      type: {class: Idle, ns: Characters.Player.States, asm: Assembly-CSharp}

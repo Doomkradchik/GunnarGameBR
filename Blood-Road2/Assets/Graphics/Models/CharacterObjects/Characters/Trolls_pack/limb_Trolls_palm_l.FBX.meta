@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 7347fdcbc39c86a439ad4558a5b4bbb9
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e8b9b97a0b87b5c4bae151b073c36422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue - Light I
+    second: {fileID: 2100000, guid: 66628b1df12bea141b55706c6606caa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue - Light III
+    second: {fileID: 2100000, guid: 601fcb37f8e221a43bb4aa52b50c5798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue - Light IV
+    second: {fileID: 2100000, guid: 038cc7b7599adc84cbaf1c6255396bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body Paint
+    second: {fileID: 2100000, guid: d86233e2e689ca64bbf44c93d57fba8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: db492c6fad655c249af34ad061c4a193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Bark
+    second: {fileID: 2100000, guid: cb87750be14391c4c8709c43dfcabbd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Dark Bark
+    second: {fileID: 2100000, guid: 46879a5f0f46171498d35dc34438a96f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Dark Leather
+    second: {fileID: 2100000, guid: df81575dd23fe3c40b5f32999d999555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Horn
+    second: {fileID: 2100000, guid: b34c7c651ebe7214aba55da09a6f5980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Light Leather
+    second: {fileID: 2100000, guid: ecbbe1211cb12bf43962466b1dfc5c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Plain Leather
+    second: {fileID: 2100000, guid: f134e748994135f409f8804a61e67eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Regular Leather
+    second: {fileID: 2100000, guid: 797829623992e2a44abc1ecb3db334fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cave Troll I
+    second: {fileID: 2100000, guid: ad390bb787f1ccf46880f4fb9a65419f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cave Troll II
+    second: {fileID: 2100000, guid: 86f24e32db4aec2468ab65b4d060317a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cave Troll III
+    second: {fileID: 2100000, guid: 7a911304074031d4fa035a69650ab718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cave Troll IV
+    second: {fileID: 2100000, guid: cb386a0caf227aa4da8bd5661ec4546e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cave Troll V
+    second: {fileID: 2100000, guid: b9c6782ae7784a140abbd29c9d148b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper - Rusty
+    second: {fileID: 2100000, guid: 85f8099d06199cc4aad2b3bbe32a9e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desert Troll I
+    second: {fileID: 2100000, guid: 480ac50503c61644782e28f0ea905b7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desert Troll II
+    second: {fileID: 2100000, guid: 78e67a402508e2e4e8ad84316dd5a9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desert Troll III
+    second: {fileID: 2100000, guid: 0ec72988d32ac13459a7c3f71ad2c828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desert Troll IV
+    second: {fileID: 2100000, guid: 0f6039e490d3dcc4c88ec0a0bdb1319a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forest Troll I
+    second: {fileID: 2100000, guid: b858b3910bc93b3478258ea8f7164657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forest Troll II
+    second: {fileID: 2100000, guid: 31990c28b76b60749a94ce81ccfdeeca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forest Troll III
+    second: {fileID: 2100000, guid: 533bab233435ee048a40ff1385ae9517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forest Troll IV
+    second: {fileID: 2100000, guid: 3e125530d65bd1c46b718daf5d4d5c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 00378d9ad7909a44d9d37e1d34596d52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green IV
+    second: {fileID: 2100000, guid: 60c49019982c3e044b222b129a3a1799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green V
+    second: {fileID: 2100000, guid: a376af04e5925274d9632bf51e7e0689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron II
+    second: {fileID: 2100000, guid: ca83848a310e9e04185705d7e5843408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron IV
+    second: {fileID: 2100000, guid: fc55061d4fe47c44bbc3a5dd825ab7eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron IX
+    second: {fileID: 2100000, guid: e193863cf206fb14ea00c5c949615d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron V
+    second: {fileID: 2100000, guid: 826367a78733dc14cbb4092b0c56d9c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron VI
+    second: {fileID: 2100000, guid: ed82285906d52d94eb9e5af0b79ec72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron VII
+    second: {fileID: 2100000, guid: 8087a4ec887150341985056c79689833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron VIII
+    second: {fileID: 2100000, guid: ecd8c5e4a8ed4e44889a4dad24dc46bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron X
+    second: {fileID: 2100000, guid: 61a06301e26adac43866d14c020efeac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon - Blue
+    second: {fileID: 2100000, guid: 82c96c0d217cd7842b14d24fc02a297c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon - Green
+    second: {fileID: 2100000, guid: 1f1206c47d4307b4c859cec40650d31a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon - Red
+    second: {fileID: 2100000, guid: 9794a9a7749cf4f47ab49d8d56277312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 82ff818bcc56c6d44bf869c00e1f743b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink IV
+    second: {fileID: 2100000, guid: f8cbec349c6158f478f09b7d2adfd01d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink V - Gums
+    second: {fileID: 2100000, guid: c6d36e1ae935bda4a924c648227e01ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red I - Standart
+    second: {fileID: 2100000, guid: 65090180a40790043ad00c9f8f99faf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red II
+    second: {fileID: 2100000, guid: 3426ca12f3e15694ab75f8b1d125feda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red III - Velvet
+    second: {fileID: 2100000, guid: 2d15720917a27ee408128ef2a7fd37ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red IV
+    second: {fileID: 2100000, guid: f69d9656cadf23e4bb4e53f424461bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red V - Dark
+    second: {fileID: 2100000, guid: 7cd30e35e26c1534d8b7fe1c6d79cf42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel I
+    second: {fileID: 2100000, guid: ddda916743b994742b5e829e183de39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel V
+    second: {fileID: 2100000, guid: a54718e2cbfd8c24c86261eb22dd679b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel VI
+    second: {fileID: 2100000, guid: ba17188060bf0d644b5baebb0f3ae6a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp I
+    second: {fileID: 2100000, guid: 602914fcbc452c243a1d66c719381b5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp II
+    second: {fileID: 2100000, guid: 4cc6b0ead46a3e4408a90edf05a22dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp IX
+    second: {fileID: 2100000, guid: 537068abad646724b822441b38570874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp V
+    second: {fileID: 2100000, guid: 1dcccb21d26a48d4d86123bce4ccf4fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp VII
+    second: {fileID: 2100000, guid: 83cfaf29275840e46a578b3c3553d43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp X
+    second: {fileID: 2100000, guid: 013bcefe9d998544e8fb02c1ca32e6ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troll  Mouth
+    second: {fileID: 2100000, guid: b84ebe12973f1da40be43cf5bb32c9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troll  Tongue
+    second: {fileID: 2100000, guid: 9a324fa72f6d0c44da9ab745426866c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troll I
+    second: {fileID: 2100000, guid: e2f96b21fdb925b47945c6b9bb58c3d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troll II
+    second: {fileID: 2100000, guid: 2d2c84c14fcf3604b803661a14a49860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troll III
+    second: {fileID: 2100000, guid: 4c2e728e6def6db448ad6abdf41cd279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Troll IV
+    second: {fileID: 2100000, guid: 89b1ecdbc37b06f4baffe17e8bbe4ae2, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

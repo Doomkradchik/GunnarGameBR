@@ -1,0 +1,41 @@
+%2
+Nobody
+defective
+Fury
+Inflicting damage to the enemy, the hero restores his own health.
+Ghost wolf
+Summons a ghost wolf that attacks enemies for 30 seconds.
+Drone Hammer
+Creates an attacking helper drone for 18 seconds.
+induction coil
+Creates a storm that can knock enemies far away and even kill them.
+Mana Shield
+The magic sphere protects the hero for 6 sec.
+Armageddon
+A terrifying explosion that destroys all enemies around.
+Sword Rain
+Ghost swords fall from the sky and damage all enemies in an area.
+Rage Release
+Multiple ground explosions hit the enemies in the area.
+Stun trigger
+Stuns all enemies for 6 seconds.
+%2
+Health
+%1
+Energy
+%1
+Mana
+%331
+Update
+Cost
+sec
+mana
+Desert
+Forest
+Coast
+Mountains
+Snow
+Steppe
+Swamp
+Westland
+%18

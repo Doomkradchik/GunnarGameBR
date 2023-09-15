@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: Oak breaker
+  m_EditorClassIdentifier: 
+  EnemyClass: Oak Breaker
+  character: {fileID: 5073376957246154528, guid: f4ab7ad32cf262840a31cdc3b9b5b2c6, type: 3}
+  data:
+    health: 50
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: fee2e81a2673c9540b4d4d7f6cc16cb1, type: 2}
+  - {fileID: 11400000, guid: 1421450ba83270d44ab0466977a13852, type: 2}
+  - {fileID: 11400000, guid: d8355ceb962d02a4ab082d2f76dea172, type: 2}
+  - {fileID: 11400000, guid: 51e194d751be2b041bdfa57a976e8a82, type: 2}
+  - {fileID: 11400000, guid: 7c19a8081a6eb5f4a8522e5a45e10a1b, type: 2}
+  icon: {fileID: 21300000, guid: b281edf76add14249877c8bded401f02, type: 3}
+  moneyForDeath: 5

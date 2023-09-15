@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: Servant
+  m_EditorClassIdentifier: 
+  EnemyClass: Servant
+  character: {fileID: 7660501994466746627, guid: bba98bbe97abc2046888f49796cf6672, type: 3}
+  data:
+    health: 50
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: 7ae870aaccf23ea4caa35af05edc4bd7, type: 2}
+  - {fileID: 11400000, guid: 57deaccd52694e541b04ebc1a9957483, type: 2}
+  - {fileID: 11400000, guid: d00ad7d0e8516524b989e85b88266093, type: 2}
+  - {fileID: 11400000, guid: ce9e023859cd11c4585afe8499c46264, type: 2}
+  - {fileID: 11400000, guid: 0acc7df8d95b4b04d98b5c41482a717d, type: 2}
+  icon: {fileID: 21300000, guid: d5a5e3896852138439a97f4e749702be, type: 3}
+  moneyForDeath: 5

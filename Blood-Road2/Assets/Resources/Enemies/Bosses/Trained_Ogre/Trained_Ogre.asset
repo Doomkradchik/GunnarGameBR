@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: Trained_Ogre
+  m_EditorClassIdentifier: 
+  EnemyClass: Trained_Ogre
+  character: {fileID: 661942797782133745, guid: 3ea0795b137da6141991526f023bd3c6, type: 3}
+  data:
+    health: 250
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: 7e6bd927f23afe940a86b4269b6ba0a8, type: 2}
+  - {fileID: 11400000, guid: aecd249a2062dc544b46a3a240e6b616, type: 2}
+  - {fileID: 11400000, guid: e61caf62045f88849ad56c75d2cd5395, type: 2}
+  - {fileID: 11400000, guid: e5774c6944ad8f84e86ca8b672bacdaa, type: 2}
+  - {fileID: 11400000, guid: cdc06656a1ad3c340b4ced778acecd86, type: 2}

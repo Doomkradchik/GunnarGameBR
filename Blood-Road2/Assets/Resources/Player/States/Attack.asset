@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c5601270304488aefbb9175b747d1b, type: 3}
+  m_Name: Attack
+  m_EditorClassIdentifier: 
+  one:
+    Ability:
+      <AbilityCommand>k__BackingField:
+        rid: -2
+      <Cost>k__BackingField: 5
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 100
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 81e0f2cdcf8599c45bd988ffb23eca6a, type: 3}
+      <Cooldown>k__BackingField: 0
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029754967293955
+      <Animation>k__BackingField: {fileID: -6023486150219950335, guid: 3fd95ca4b86fa1f418de863d2641b11a, type: 3}
+      <Speed>k__BackingField: 2.61
+      <Effect>k__BackingField: {fileID: 0}
+      <AudioClip>k__BackingField: {fileID: 8300000, guid: 14f48b82d8c68e04ea6a1e0abe443074, type: 3}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0.486
+        priority: 127
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  many:
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: -2
+      <Cost>k__BackingField: 15
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 60
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 45b23ea6c822d7e4aa415a5e1d0403b7, type: 3}
+      <Cooldown>k__BackingField: 6
+    View:
+      <ID>k__BackingField: 3242
+      <State>k__BackingField:
+        rid: -2
+      <Animation>k__BackingField: {fileID: 4324581201113770701, guid: 8682d13d6017bac41b13381efb86c215, type: 3}
+      <Speed>k__BackingField: 0.47
+      <Effect>k__BackingField: {fileID: 1836420895528260768, guid: 57a529a79ecb1bb468fb5a85786dfa73, type: 3}
+      <AudioClip>k__BackingField: {fileID: 8300000, guid: b118f11740764514d90f6ba6ed588a24, type: 3}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0.559
+        priority: 132
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: -2
+      <Cost>k__BackingField: 30
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 30
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 7ca16796a6b40a34f994c0e8a9dceb23, type: 3}
+      <Cooldown>k__BackingField: 8
+    View:
+      <ID>k__BackingField: 2345
+      <State>k__BackingField:
+        rid: -2
+      <Animation>k__BackingField: {fileID: 2992760244250348429, guid: 46c19a8a1dbfcbe4f875422df0281f01, type: 3}
+      <Speed>k__BackingField: 1.17
+      <Effect>k__BackingField: {fileID: 109194207359173101, guid: 784714641f5a78a489858af851f89d69, type: 3}
+      <AudioClip>k__BackingField: {fileID: 8300000, guid: 7d6bdc6ab9bc74948b829575b6bda56a, type: 3}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0.559
+        priority: 125
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: -2
+      <Cost>k__BackingField: 10
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 40
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 99f1beee3cbebe44d9dd6bf3508fa112, type: 3}
+      <Cooldown>k__BackingField: 2
+    View:
+      <ID>k__BackingField: 13123
+      <State>k__BackingField:
+        rid: -2
+      <Animation>k__BackingField: {fileID: -2603037185963062845, guid: a3113e44897006640a56841bd014902b, type: 3}
+      <Speed>k__BackingField: 1
+      <Effect>k__BackingField: {fileID: 0}
+      <AudioClip>k__BackingField: {fileID: 8300000, guid: e04797ca98498624a840c9a10aa96288, type: 3}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0.559
+        priority: 104
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1209029754967293955
+      type: {class: Attack, ns: Characters.Player.States, asm: Assembly-CSharp}

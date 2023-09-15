@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 2c534df0e7cfd8949a860518f20c5878
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 73dd5e4039c89dc48a2f0fa86ba99c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue - Dark III
+    second: {fileID: 2100000, guid: 07722504d17dac043b56c0868ef08109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: cabd2032c8c60e54a922d8a3ffd0abc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Bark
+    second: {fileID: 2100000, guid: 43ef562ac65f6024fa6535f3eebc869e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Dark Bark
+    second: {fileID: 2100000, guid: 0e3297b3d76136c41847c09cab5bdf43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Dark Leather
+    second: {fileID: 2100000, guid: e0e3f7b27aa2c834881b5aab5a8a9e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Horn
+    second: {fileID: 2100000, guid: 7e2f909f3f231644fa1dd5cda089c15c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Ivory
+    second: {fileID: 2100000, guid: b7cabe31079b5a24dac39fcb1def0a6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Light Leather
+    second: {fileID: 2100000, guid: 61a796f1276455d409d3e618e2f2e300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Plain Leather
+    second: {fileID: 2100000, guid: 774d073497a077a43b3d8e7e18c40b16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Regular Leather
+    second: {fileID: 2100000, guid: c5362e8d0df19c1419811d0c46462c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown - Teeth
+    second: {fileID: 2100000, guid: 91fdfd46b24b9fc4096d17f107e97a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper - Dark
+    second: {fileID: 2100000, guid: 8c74012bca0a3af4dacc06aa6fbc89d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper - Old
+    second: {fileID: 2100000, guid: e2179275562c3bb44b68d108a3c406d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper - Rusty
+    second: {fileID: 2100000, guid: 6e4ec5b01a4527b44852c28933593333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cyan Cloth
+    second: {fileID: 2100000, guid: a2b2233ebf1b3184199f5ba77783f963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cyan Dark Cloth
+    second: {fileID: 2100000, guid: d57898768674db84b829ac776410acc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cyan Darkest Cloth
+    second: {fileID: 2100000, guid: 5c68080f17c8fd9449c3158fde1992bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Cloth
+    second: {fileID: 2100000, guid: ae4c3da4ac9569344ab5dcb366e67f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green IV
+    second: {fileID: 2100000, guid: b94022362fde9f64d8dbaf74da96c903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green V
+    second: {fileID: 2100000, guid: e06334641c1dc644b9b7e7fc2520e787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron II
+    second: {fileID: 2100000, guid: 2d683d5eb20f736449beb1c40802c0e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron III
+    second: {fileID: 2100000, guid: b216f59de7c0deb48a9257ebc561c4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron IV
+    second: {fileID: 2100000, guid: 5b463bb55f54d7745a65f6b994693d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron V
+    second: {fileID: 2100000, guid: 7798ca39b369cc24faedd52d299739fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron VI
+    second: {fileID: 2100000, guid: 72c61e0398e01654ab81b913e0dd4085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron VII
+    second: {fileID: 2100000, guid: 7e23d0b2fc4de204087b9be6875bb877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron VIII
+    second: {fileID: 2100000, guid: c516ea3d31aae6641a2f3f3f190b5419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neon - Blue
+    second: {fileID: 2100000, guid: a90cdccdb3caf8e45b325b1513cf91d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink I - Skin
+    second: {fileID: 2100000, guid: a005781b40b71544aadb1dd76cf018e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink II
+    second: {fileID: 2100000, guid: 99d04dea1a6f73b4e9eaea10b998d50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink III
+    second: {fileID: 2100000, guid: d25ea1ec156fa4144867880ce6a20219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink IV
+    second: {fileID: 2100000, guid: 22c45e60e3f2feb489fd40af68692d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pink V - Gums
+    second: {fileID: 2100000, guid: 549d50bf14034314ba7e43ba0207008e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Cloth
+    second: {fileID: 2100000, guid: c53a61edf33daaa43a47094a799c18ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Dark Cloth
+    second: {fileID: 2100000, guid: 8e1cecd961a4d514ca41087f7b9138d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red II
+    second: {fileID: 2100000, guid: 286dfe2d8d1b9864ab8d28767910ecf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red III - Velvet
+    second: {fileID: 2100000, guid: 13a297d40b263514fb695f9e3c0e033a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red IV
+    second: {fileID: 2100000, guid: c572ea7be073e5e42b8cf1d1cbf2b78a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Leather
+    second: {fileID: 2100000, guid: d4a10daf7b2cc4644b9509d75fcef5b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red V - Dark
+    second: {fileID: 2100000, guid: caf9c26b39157e44a89fd8b1b1f9da7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rust Dark
+    second: {fileID: 2100000, guid: 1d8b7032213d5404ab1cf9bb53ae0dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shaven Skin
+    second: {fileID: 2100000, guid: 48c6903b755af8e438deed665f81939e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel IV
+    second: {fileID: 2100000, guid: a651a559b797067439492c4851a5ca33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel V
+    second: {fileID: 2100000, guid: acc9737562db7454e9e26ca78c355c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp III
+    second: {fileID: 2100000, guid: e2c903482f82e7c41abc1c2d54bb2250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swamp VI
+    second: {fileID: 2100000, guid: 36f1568e6bf3c9d48ac1b78b03e5a9cb, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

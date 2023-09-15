@@ -1,0 +1,388 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c5601270304488aefbb9175b747d1b, type: 3}
+  m_Name: AbilitiesData
+  m_EditorClassIdentifier: 
+  one:
+    Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860770
+      <Cost>k__BackingField: 0
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 0}
+      <Cooldown>k__BackingField: 0
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: -2
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 0}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  many:
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860762
+      <Cost>k__BackingField: 20
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 6583911b262f40241889a5077f1446d4, type: 3}
+      <Cooldown>k__BackingField: 15
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860784
+      <Animation>k__BackingField: {fileID: 4324581201113770701, guid: 8682d13d6017bac41b13381efb86c215, type: 3}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 3166439108334882262, guid: 17345d701491baa4d93afc5b510e9a99, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860756
+      <Cost>k__BackingField: 15
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Vampirism
+      <Description>k__BackingField: Dealing damage to the enemy, the hero restores
+        health.
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 9ae725450c7678e4f9b21514713e72d2, type: 3}
+      <Cooldown>k__BackingField: 20
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860782
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 2326355777706781186, guid: eaa22e368a2136241a702bd13970a5fa, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860757
+      <Cost>k__BackingField: 20
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Ghost wolf
+      <Description>k__BackingField: Summons a ghost wolf that attacks an enemy for
+        30 seconds
+      <Sprite>k__BackingField: {fileID: 21300000, guid: c854c65c78c820a428c788778fa0cbe2, type: 3}
+      <Cooldown>k__BackingField: 40
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860783
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 3230140645502558465, guid: 56c3d5c1cc04cb543b25b9ba9f519c51, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860773
+      <Cost>k__BackingField: 20
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: drone hammer
+      <Description>k__BackingField: Creates an attacking helper drone for 18 seconds.
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 70db0e375e04f21468e198f6f380cd16, type: 3}
+      <Cooldown>k__BackingField: 6
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860785
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 7566873106949737003, guid: 4be649f4aeef2c24b8f5cef4f45d4e1c, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860774
+      <Cost>k__BackingField: 30
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Storm
+      <Description>k__BackingField: "Creates a magical whirlwind around the hero,
+        knocking back and injuring enemies.\u0439 \u0432\u0440\u0430\u0433\u043E\u0432."
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 6da00ac66318b5a4ea77e22e16f0c5de, type: 3}
+      <Cooldown>k__BackingField: 20
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860786
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 5767999109912402688, guid: 812652216d0faf342983826e5a2621fb, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860775
+      <Cost>k__BackingField: 15
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Protective sphere
+      <Description>k__BackingField: Magic sphere protects the hero for 10 sec.
+      <Sprite>k__BackingField: {fileID: 21300000, guid: a1bd76a15a2b33c4e8305d96b036f960, type: 3}
+      <Cooldown>k__BackingField: 12
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860787
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 6658642946818864756, guid: 96c8388804514904ebf6ea7d6e7bf3d1, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860749
+      <Cost>k__BackingField: 50
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Armageddon
+      <Description>k__BackingField: A terrifying explosion that destroys all enemies
+        around.
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 6e1f035dc10c614458176959f00487d0, type: 3}
+      <Cooldown>k__BackingField: 30
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860781
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 8546595984504945830, guid: 01dbd169d52ec4643ad8449427eca728, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860777
+      <Cost>k__BackingField: 25
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Rain of Blades
+      <Description>k__BackingField: Ghost swords fall from the sky and damage all
+        enemies in an area.
+      <Sprite>k__BackingField: {fileID: 21300000, guid: e3eb256d32116dd408ce6544932f746d, type: 3}
+      <Cooldown>k__BackingField: 10
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860790
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: -3160666713083532792, guid: 694bb9f1536c5e94abd3f9d57c4aeea2, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029686399860779
+      <Cost>k__BackingField: 20
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Minefield
+      <Description>k__BackingField: Multiple ground explosions hit enemies in the
+        area
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 3ef8567a5d8203c4e8d19b8e5328be8c, type: 3}
+      <Cooldown>k__BackingField: 25
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029686399860791
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 8450882300637083682, guid: 69ce498bf834699428ef9afa79530818, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  - Ability:
+      <AbilityCommand>k__BackingField:
+        rid: 1209029844302561283
+      <Cost>k__BackingField: 20
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 0
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: Mass Stun
+      <Description>k__BackingField: Stuns all enemies for 6 seconds.
+      <Sprite>k__BackingField: {fileID: 21300000, guid: 3d33109222aed8047bfee35dccbf1880, type: 3}
+      <Cooldown>k__BackingField: 30
+    View:
+      <ID>k__BackingField: 0
+      <State>k__BackingField:
+        rid: 1209029844302561285
+      <Animation>k__BackingField: {fileID: 0}
+      <Speed>k__BackingField: 0
+      <Effect>k__BackingField: {fileID: 3818202955627001864, guid: e39aeb474fd2b1642a477a8a3ec08c04, type: 3}
+      <AudioClip>k__BackingField: {fileID: 0}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 0
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1209029686399860749
+      type: {class: Armageddon, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860756
+      type: {class: Fury, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860757
+      type: {class: GhostWolf, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860762
+      type: {class: UniversalBlow, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860770
+      type: {class: AllAbilities, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860773
+      type: {class: DroneHammer, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860774
+      type: {class: InductionCoil, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860775
+      type: {class: ManaShield, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860777
+      type: {class: SwordRain, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860779
+      type: {class: UnleashingRage, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029686399860781
+      type: {class: Armageddon, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860782
+      type: {class: Fury, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860783
+      type: {class: GhostWolf, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860784
+      type: {class: UniversalBlow, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860785
+      type: {class: DroneHammer, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860786
+      type: {class: InductionCoil, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860787
+      type: {class: ManaShield, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860790
+      type: {class: SwordRain, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029686399860791
+      type: {class: UnleashingRage, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}
+    - rid: 1209029844302561283
+      type: {class: StunTrigger, ns: Characters.AbilitiesSystem.Declaration, asm: Assembly-CSharp}
+    - rid: 1209029844302561285
+      type: {class: StunTrigger, ns: Characters.AbilitiesSystem.States, asm: Assembly-CSharp}

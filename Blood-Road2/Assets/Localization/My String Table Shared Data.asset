@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: My String Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: My String Table
+  m_TableCollectionNameGuidString: 2e49bfa465f440c4383375fb7655d28a
+  m_Entries:
+  - m_Id: 1286936051712
+    m_Key: ScrollPanel/Canvas (Environment)/ScrollPanel/StartLocation/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1373456154624
+    m_Key: ScrollPanel/Canvas (Environment)/ScrollPanel/LockedText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1548811616256
+    m_Key: ScrollPanel/Canvas (Environment)/ScrollPanel/Info/EnemyText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523449824821248
+    m_Key: AbilityChangedPanels/Prefab Mode in Context/AbilityChangedPanels/AbilitiesVariantsPanel/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523600387751936
+    m_Key: AbilityChangedPanels/Prefab Mode in Context/AbilityChangedPanels/AbilitiesRemovePanel/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523780281450496
+    m_Key: PlayerCanvas/PlayerCanvas/DeathPanel/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523839777652736
+    m_Key: PlayerCanvas/PlayerCanvas/DeathPanel/Content/Raw/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 523911043072000
+    m_Key: PlayerCanvas/PlayerCanvas/DeathPanel/Content/Raw (1)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524012922716160
+    m_Key: PlayerCanvas/PlayerCanvas/DeathPanel/Content/Raw (2)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524141339721728
+    m_Key: PlayerCanvas/PlayerCanvas/DeathPanel/Menu/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524177654005760
+    m_Key: PlayerCanvas/PlayerCanvas/DeathPanel/Restart/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524218422640640
+    m_Key: PlayerCanvas/PlayerCanvas/LevelCompletedPanel/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1209029891151888417
+  references:
+    version: 2
+    RefIds:
+    - rid: 1209029891151888417
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1681397235092

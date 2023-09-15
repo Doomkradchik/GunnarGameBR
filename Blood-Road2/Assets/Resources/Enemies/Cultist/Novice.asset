@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: Novice
+  m_EditorClassIdentifier: 
+  EnemyClass: Novice
+  character: {fileID: 4501241199359081850, guid: d71cf744196398949a0c4b81c5c4c00f, type: 3}
+  data:
+    health: 50
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: e0b02011925d7e5488d347e1e01b8d0c, type: 2}
+  - {fileID: 11400000, guid: 225d554c38736074f97a0fe527dc03f0, type: 2}
+  - {fileID: 11400000, guid: ec773f70377a0cf4cb4bfc118c6b3905, type: 2}
+  - {fileID: 11400000, guid: 8ed327b9c82dbb74295c7ff90ae23e66, type: 2}
+  - {fileID: 11400000, guid: 08ef62814531ffe488da8a72543e6074, type: 2}
+  icon: {fileID: 21300000, guid: 134ba485a8da8d346a4f57b7ad60b7ed, type: 3}
+  moneyForDeath: 5

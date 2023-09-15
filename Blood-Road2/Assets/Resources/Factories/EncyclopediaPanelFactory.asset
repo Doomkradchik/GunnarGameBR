@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3523d4ae0af19984d9bb77ea5812abe0, type: 3}
+  m_Name: EncyclopediaPanelFactory
+  m_EditorClassIdentifier: 
+  infos: []
+  prefab: {fileID: 5950623917392872771, guid: af7940f1e688579459a72ce86aa8a189, type: 3}
+  enemiesData: {fileID: 11400000, guid: 4510b42ad867ee44a8d86541c5a71ad7, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: MAster bomber
+  m_EditorClassIdentifier: 
+  EnemyClass: Master Bomber
+  character: {fileID: 8995519929118792427, guid: 9a6debdca0155014a984ec2d7066a11c, type: 3}
+  data:
+    health: 50
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: 52a44f0ce04798d48adefd4d240a0c56, type: 2}
+  - {fileID: 11400000, guid: 1c431f1c754248645816c9bc7f6dc9ab, type: 2}
+  - {fileID: 11400000, guid: 12762bdfb4d2a224392060a8b3a248ea, type: 2}
+  - {fileID: 11400000, guid: c9c114f9d94fd004980726029081ff26, type: 2}
+  - {fileID: 11400000, guid: 9b94cfde41043364fb23b25c30bd0f05, type: 2}
+  icon: {fileID: 21300000, guid: f8d3c7e46c27f35449900f4eaea820bb, type: 3}
+  moneyForDeath: 5

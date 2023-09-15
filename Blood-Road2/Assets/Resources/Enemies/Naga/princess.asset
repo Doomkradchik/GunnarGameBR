@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: princess
+  m_EditorClassIdentifier: 
+  EnemyClass: Princess
+  character: {fileID: 6988541361124940090, guid: 78e51a0ae7749774cb4b259ea63e9576, type: 3}
+  data:
+    health: 50
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: c1187942ae48cfe49b2723d326297bf6, type: 2}
+  - {fileID: 11400000, guid: 0ab85f3fdd15a084a949191279274008, type: 2}
+  - {fileID: 11400000, guid: 001cb0b350c26a642847f129cb2f1d4c, type: 2}
+  - {fileID: 11400000, guid: 2e3614d5a19947d48a689b1a57f38a2f, type: 2}
+  - {fileID: 11400000, guid: bad469c37f539e140801b625239c4a4a, type: 2}
+  icon: {fileID: 21300000, guid: 055176793e5c9ef4aba2ce310ee9ce7b, type: 3}
+  moneyForDeath: 5

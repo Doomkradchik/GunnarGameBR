@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f613ba81ce4d05a2b8f49c3d525737, type: 3}
+  m_Name: chieftain
+  m_EditorClassIdentifier: 
+  EnemyClass: Chieftain
+  character: {fileID: 3712959268961789727, guid: 9b8183c3611ba30479292a325897a43a, type: 3}
+  data:
+    health: 50
+    shield: 0
+    energy: 0
+    mana: 0
+    weapon: {fileID: 1424769821412418019, guid: 990c1cf1b118c474f9c1daae184e6e0e, type: 3}
+  states:
+  - {fileID: 11400000, guid: a10d77a24bdf05b4b883eb33757c7293, type: 2}
+  - {fileID: 11400000, guid: 473124cbb321e714bb0ffb485fb1a86a, type: 2}
+  - {fileID: 11400000, guid: b132a8dc4e52fc840984c013ffa74c1a, type: 2}
+  - {fileID: 11400000, guid: f4a4815ebc5b54b448cd4d1bd6e47826, type: 2}
+  - {fileID: 11400000, guid: 76dcfcdafb0f3b3449cb7a650479fcb3, type: 2}
+  - {fileID: 11400000, guid: 258ec0541dd2ae2458eb9efd17626fb7, type: 2}
+  icon: {fileID: 21300000, guid: c08db98c4612c1e4c8a378a929977e20, type: 3}
+  moneyForDeath: 5

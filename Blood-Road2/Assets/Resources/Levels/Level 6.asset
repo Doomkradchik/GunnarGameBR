@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d292c284bcd619442b4f0cc3559922c2, type: 3}
+  m_Name: Level 6
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: a183cb97dcd9eec4895573fc921a4fee, type: 3}
+  name: WITCHES OF THE PLAIN
+  progress: 0/6
+  enemies:
+  - {fileID: 21300000, guid: 8a1c0826086439344a0e6ee282f9b565, type: 3}
+  - {fileID: 21300000, guid: 777a309ba83dafe408105ca9eb0f3b98, type: 3}
+  - {fileID: 21300000, guid: dde5d9b81b0271749b25852b8ae38066, type: 3}
+  - {fileID: 21300000, guid: b675de0ca7ba03242a8f0fd06f82db7e, type: 3}
+  - {fileID: 21300000, guid: a733686ae6355574095d94130ba58a53, type: 3}
+  moneyInLocation: 23423
+  scene:
+    name: 
+    fullPath: 
+    guid: 
+  locked: 1
+  _currentProgress: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f589a9ae4e47a0b263444a2826d542, type: 3}
+  m_Name: Attack
+  m_EditorClassIdentifier: 
+  item:
+    Ability:
+      <AbilityCommand>k__BackingField:
+        rid: -2
+      <Cost>k__BackingField: 0
+      <EffectData>k__BackingField:
+        <HealthDamage>k__BackingField: 7
+        <MagicDamage>k__BackingField: 0
+        <HealthAdd>k__BackingField: 0
+        <ManaAdd>k__BackingField: 0
+        <EnergyAdd>k__BackingField: 0
+    UIInfo:
+      <Name>k__BackingField: 
+      <Description>k__BackingField: 
+      <Sprite>k__BackingField: {fileID: 0}
+      <Cooldown>k__BackingField: 0
+    View:
+      <ID>k__BackingField: 19
+      <State>k__BackingField:
+        rid: 1209029754967293971
+      <Animation>k__BackingField: {fileID: -2131812704307316687, guid: 9150725ee8fb6244a8d354b5d07c7062, type: 3}
+      <Effect>k__BackingField: {fileID: 0}
+      <AudioClip>k__BackingField: {fileID: 8300000, guid: 11a0b442139934a458115a082339c75e, type: 3}
+      <AudioParameters>k__BackingField:
+        loop: 0
+        volume: 0
+        priority: 137
+      <UseAnimationLine>k__BackingField: 0
+      <AnimationLine>k__BackingField: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1209029754967293971
+      type: {class: Attack, ns: Characters.Player.States, asm: Assembly-CSharp}

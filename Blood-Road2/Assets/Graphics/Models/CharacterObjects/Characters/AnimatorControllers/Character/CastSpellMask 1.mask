@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CastSpellMask 1
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: char_Pelvis
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_LThigh
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_LThigh/char_LCalf
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_LThigh/char_LCalf/char_LFoot
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_LThigh/char_LCalf/char_LFoot/char_LDigit11
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_LThigh/char_LCalf/Legs_white02
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_LThigh/Legs_white01
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_RThigh
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_RThigh/char_RCalf
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_RThigh/char_RCalf/char_RFoot
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_RThigh/char_RCalf/char_RFoot/char_RDigit11
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_RThigh/char_RCalf/Legs_white03
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_RThigh/Legs_white04
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/Arms_blue01
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit12
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit12/char_LDigit13
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit21
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit21/char_LDigit22
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit21/char_LDigit22/char_LDigit23
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit31
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit31/char_LDigit32
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit31/char_LDigit32/char_LDigit33
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit41
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit41/char_LDigit42
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit41/char_LDigit42/char_LDigit43
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit51
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit51/char_LDigit52
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_LDigit51/char_LDigit52/char_LDigit53
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_weapon_L
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/char_LForearm1/char_LPalm/char_weapon_L/shields
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_LCollarbone/char_LUpperarm1/Shoulders_blue02
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/Arms_blue02
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit12
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit12/char_RDigit13
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit21
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit21/char_RDigit22
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit21/char_RDigit22/char_RDigit23
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit31
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit31/char_RDigit32
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit31/char_RDigit32/char_RDigit33
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit41
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit41/char_RDigit42
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit41/char_RDigit42/char_RDigit43
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit51
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit51/char_RDigit52
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_RDigit51/char_RDigit52/char_RDigit53
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_weapon_R
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_weapon_R/LeftWristEffectorAux1
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_weapon_R/Sword_blue
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/char_RForearm1/char_RPalm/char_weapon_R/Sword_blue/Null
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_RCollarbone/char_RUpperarm1/Shoulders_blue01
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_Ribcage
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_Ribcage/Body_white
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_Ribcage/char_Neck
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_Ribcage/char_Neck/char_Head
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_Ribcage/char_Neck/char_Head/Helm_blue02
+    m_Weight: 1
+  - m_Path: char_Pelvis/char_Spine1/char_Spine2/char_Spine3/char_Spine4/char_Ribcage/Helm_blue01
+    m_Weight: 1
+  - m_Path: char_Pelvis/Legs_blue01
+    m_Weight: 1
+  - m_Path: char_Pelvis/Legs_white05
+    m_Weight: 1
+  - m_Path: main_char_trimmed_low
+    m_Weight: 1
+  - m_Path: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    m_Weight: 1
+  - m_Path: "\xD7\xFE\xD7\xFC"
+    m_Weight: 1
